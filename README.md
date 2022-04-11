@@ -6,7 +6,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-# overview of the statistical analysis:
+# Overview of the statistical analysis:
   This project was dedicated in creating a tableau visualization which analayzed the citibike data in order to see whether starting a new biking business would be worthwhile or not. This data visualization was created soley to intrest and provide information to potential investors to whether they would want to fund this new project. 
 
 # Results:
